@@ -10,13 +10,10 @@ This project analyzes booking behavior and revenue trends for a small rental bus
 
 ## Dashboard Overview
 ### Overview
-![Overview](Overview.png)
+![Overview](images/Overview.png)
 
 ### Customer Types & Behaviour
-![Customer Types](Customer Profiles.png)
-
-### Empty Nights
-![Customer Profiles](customer.png)
+![Customer Types](images/Customer Profiles.png)
 
 ## Tools Used
 - Power BI
